@@ -1,0 +1,17 @@
+Package: Olink
+Version: 0.1
+Date: 2020-05-12
+Title: A package for Olink proteomics data
+Author@R: c(person("Mun-Gwan", "Developer", email= "mungwan@gmail.com"))
+Author: Mun-Gwan Hong
+Maintainer: Mun-Gwan Hong <mungwan@gmail.com>
+Imports:
+	dplyr,
+	readxl
+Description: A collection of R functions to handle Olink proteomics data
+License: gpl-3.0
+LazyLoad: yes
+TO-DO: 
+RoxygenNote: 7.1.0
+Suggests: testthat
+Encoding: UTF-8
